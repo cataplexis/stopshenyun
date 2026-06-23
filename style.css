@@ -8,7 +8,8 @@
 body {
    background-color: #f6e3d7; 
    text-align: center;
-  padding-bottom: 80px;
+   padding-bottom: 80px;
+   line-height: 1.5em;
 }
 
 header {
