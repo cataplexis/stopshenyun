@@ -154,7 +154,7 @@ button{
 
 button:hover {
    text: black;
-   background-color: #f6e3d7;
+   background-color: #cd4662;
 }
 
 .funfact {
@@ -175,6 +175,7 @@ button:hover {
   padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
+   color: #cd4662;
 }
 
 .oppositehover:hover {
